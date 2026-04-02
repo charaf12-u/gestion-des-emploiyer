@@ -35,7 +35,7 @@ Un projet simple d'application de bureau (Desktop Application) développé avec 
    ```
 
 ## 📸 Capture d'Écran
-*(Vous pouvez ajouter un screenshot ici si vous le souhaitez)*
+![Aperçu de l'application](images/Capture.png)
 
 ---
 *Ce projet est réalisé dans le cadre d'un apprentissage de Python (Tkinter et POO).*
